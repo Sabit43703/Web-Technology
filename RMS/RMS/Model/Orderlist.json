@@ -1,0 +1,32 @@
+[
+    {
+        "cname": "",
+        "itemname": "",
+        "quantity": "",
+        "price": ""
+    },
+    {
+        "cname": "SNEHA",
+        "itemname": "BURGER",
+        "quantity": "2",
+        "price": "500"
+    },
+    {
+        "cname": "sroot",
+        "itemname": "BURGER",
+        "quantity": "1",
+        "price": "200"
+    },
+    {
+        "cname": "siam",
+        "itemname": "pizza",
+        "quantity": "2",
+        "price": "800"
+    },
+    {
+        "cname": "sabit",
+        "itemname": "burger",
+        "quantity": "3",
+        "price": "600"
+    }
+]
